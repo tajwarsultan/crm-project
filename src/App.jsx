@@ -4,7 +4,6 @@ import Dashboard from './pages/Dashboard';
 import Users from './pages/Users';
 import Orders from './pages/Orders';
 
-
 function App() {
   return (
     <Router>
